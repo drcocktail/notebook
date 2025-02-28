@@ -1,4 +1,4 @@
-# Ollama Geometry Reasoning Agent
+# Ollama's Own Notebook
 
 This project transforms any Ollama LLM into a geometric reasoning agent that uses visual thinking to solve complex geometry problems.
 
